@@ -14,7 +14,7 @@ Getting Started
 To get started with this project, you will need to clone the repository to your local machine. You can do this by running the following command:
 
 Copy code
-`git clone https://github.com/<your-username>/dev-detective.git`
+`https://github.com/ankitmalik84/Dev-detective.git`
 
 
 After you have cloned the repository, navigate to the directory where it is stored on your local machine. From there, you can open the index.html file in your web browser to start using the project.
